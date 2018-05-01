@@ -79,3 +79,9 @@ Optimized a wide range of workflows and procedures pertaining to labor utilizati
 * 2017-2018 Web Development Immersive - General Assembly
 * 2012-2015 AAS - Web Development, Seattle Central College
 * 2010-2012 AA, Seattle Central College 
+
+------
+### Organizations
+------
+* Project Management Institute
+* Phi Theta Kappa
