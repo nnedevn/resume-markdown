@@ -73,3 +73,9 @@ Project was delivered one week ahead of schedule after I identified, suggested a
 
 Optimized a wide range of workflows and procedures pertaining to labor utilization, scheduling, production and inventory management. These contributed to a 15% profit margin increase and a 21% annual revenue compound growth rate.
 
+------
+### Education
+------
+* 2017-2018 Web Development Immersive - General Assembly
+* 2012-2015 AAS - Web Development, Seattle Central College
+* 2010-2012 AA, Seattle Central College 
