@@ -15,6 +15,7 @@ Full stack JS developer with project management experience. I am a systematic pr
 
 ------
 ### Technical Skills
+------
 #### Languages: 
 JavaScript
 Python
@@ -53,3 +54,22 @@ Linux(Debian)
 
 ------
 ### Work Experience
+------
+#### Project Coordinator at Urbanata
+>10/2016 - 07/2017
+
+Created, controlled and communicated project details and schedules between management, design and construction teams during project implementation. Served as first point of contact for clients with ongoing projects. Built a centralized internal repository for policies and procedures. Oversaw the company's migration to a new CRM and accounting platforms. Resigned the internal network and upgraded the hardware to a more reliable solution.
+
+
+#### Data Manager - Starbucks
+> 07/2016 - 08/2016
+
+Updated internal data for over two thousand Starbucks stores. 
+Project was delivered one week ahead of schedule after I identified, suggested and implemented workflow improvements that led to increased performance.
+
+
+#### General Manager - Milano Pizza
+> 05/2003 - 01/2010
+
+Optimized a wide range of workflows and procedures pertaining to labor utilization, scheduling, production and inventory management. These contributed to a 15% profit margin increase and a 21% annual revenue compound growth rate.
+
